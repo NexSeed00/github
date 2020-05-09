@@ -5,7 +5,7 @@ GitHubは、ソフトウェア開発プロジェクトのためのソースコ�
 
 まずは下の画像で今からする説明の全体像を掴みましょう。
 
-![GitHub](img/github_explain.jpg)
+![GitHub](img/github_explain1.jpg)
 
 今はなんとなくのイメージが分けばOKです。
 
